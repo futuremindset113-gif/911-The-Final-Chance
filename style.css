@@ -123,7 +123,7 @@ button {
   border-radius: 3px;
   border: 2px solid transparent;
   cursor: pointer;
-  transition: 0..3s ease;
+  transition: 0.3s ease;
 
 }
 
@@ -138,4 +138,5 @@ button:hover {
   margin-top: 30px;
   color: #fff;
   
+
 }
